@@ -161,6 +161,6 @@ Vui lòng chọn Menu:
 
 ## Tác giả
 Dự án được thực hiện bởi Nhóm 6.2:
--   **Quách Tề Hoằng** - 22120114
--   **Nguyễn Tấn Hưng** - 22120126
--   **Bùi Lê Anh Khoa** - 22120160
+-   **Quách Tề Hoằng**
+-   **Nguyễn Tấn Hưng**
+-   **Bùi Lê Anh Khoa**
